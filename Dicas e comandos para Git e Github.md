@@ -1,4 +1,4 @@
-# Git e Github
+# Git e Github(dicas basicas)
 
 Comandas para resetar User email e Nickname no Git Bash
 
@@ -31,9 +31,9 @@ Comando para listar todo o conteudo da pasta
 
 - LS
 
-Para iniciar o repositorio do Git na pasta usa Git init
+Para iniciar o repositorio do Git na pasta - Git init
 
-Para mover arquivos Git add *
+Para mover arquivos - Git add *
 
 Para criar um Commit usamos Git commit
 
@@ -46,11 +46,11 @@ Para enviar do Git para o Github
 - git remote add origin “”
 - git status Para saber se deu certo
 - git push origin master : para empurrar para o Github
-- git pull origin master  : para puxar do Github quando tem alguma modificação
+- git pull origin master : para puxar do Github quando tem alguma modificação
 
 Como baixar o repositorio
 
-- git clone “” e o site a ser clonado do github
+- git clone “” (o site a ser clonado do github)
 
 Localizar as origens dos repositorios 
 
